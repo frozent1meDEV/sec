@@ -1,4 +1,4 @@
-module github.com/frozent1medev/sso/protos
+module github.com/frozent1medev/sso
 
 go 1.22.5
 
